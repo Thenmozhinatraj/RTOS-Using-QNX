@@ -58,7 +58,7 @@ int main(void) {
 ```
 ## Output
 
-![Output image](<exp1.png>)
+![Output image](exp1.png)
 
 ---
 
