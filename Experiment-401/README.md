@@ -103,6 +103,9 @@ Interrupt received! , Count is 4
 ---
 
 # Output
+
+![output](exp401op.png)
+
 ---
 
 # Result
