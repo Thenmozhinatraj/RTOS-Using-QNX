@@ -251,6 +251,8 @@ main, exiting
 
 # Output
 
+
+![output](exp202.png)
 ---
 
 # Result
